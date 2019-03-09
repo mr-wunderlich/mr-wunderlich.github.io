@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Wunderlich</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Alexander Wunderlich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2019 12:16:24 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 09 Mar 2019 12:16:24 +0100</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Alexander is a software engineer from Berlin, Germany. He is currently working at Trade Republic Bank GmbH as a part of the software engineering team to build and run Germany&amp;rsquo;s first commission free broker. In the past, he worked at Valsight GmbH as well as interned at SAP SE in Palo Alto, California.
+He finished his bachelor&amp;rsquo;s and master&amp;rsquo;s degrees in IT-Systems Engineering at the Hasso Plattner Institute in Potsdam, Germany.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Sat, 09 Mar 2019 12:08:31 +0100</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description>Today I&amp;rsquo;m setting up a website using Hugo with the Hermit theme and Github Pages. So it&amp;rsquo;s basically a test setup right now.
+I&amp;rsquo;m not sure yet what content will be delivered here, but I will figure it out down the road.</description>
+    </item>
+    
+  </channel>
+</rss>
