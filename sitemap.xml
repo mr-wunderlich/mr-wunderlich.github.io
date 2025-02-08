@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.wunderlich.dev/about/</loc>
+    <loc>https://wunderlich.dev/about/</loc>
     <lastmod>2019-03-09T12:16:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.wunderlich.dev/posts/first-post/</loc>
+    <loc>https://wunderlich.dev/posts/first-post/</loc>
     <lastmod>2019-03-09T12:08:31+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.wunderlich.dev/</loc>
+    <loc>https://wunderlich.dev/</loc>
     <lastmod>2019-03-09T12:16:24+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.wunderlich.dev/posts/</loc>
+    <loc>https://wunderlich.dev/posts/</loc>
     <lastmod>2019-03-09T12:08:31+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.wunderlich.dev/tags/</loc>
+    <loc>https://wunderlich.dev/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.wunderlich.dev/tags/untagged/</loc>
+    <loc>https://wunderlich.dev/tags/untagged/</loc>
     <lastmod>2019-03-09T12:08:31+01:00</lastmod>
     <priority>0</priority>
   </url>

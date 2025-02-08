@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Alexander Wunderlich</title>
-		<link>https://www.wunderlich.dev/posts/</link>
+		<link>https://wunderlich.dev/posts/</link>
 		<description>Recent content in Posts on Alexander Wunderlich</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<lastBuildDate>Sat, 09 Mar 2019 12:08:31 +0100</lastBuildDate>
-		<atom:link href="https://www.wunderlich.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://wunderlich.dev/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>First Post</title>
-			<link>https://www.wunderlich.dev/posts/first-post/</link>
+			<link>https://wunderlich.dev/posts/first-post/</link>
 			<pubDate>Sat, 09 Mar 2019 12:08:31 +0100</pubDate>
 			
-			<guid>https://www.wunderlich.dev/posts/first-post/</guid>
+			<guid>https://wunderlich.dev/posts/first-post/</guid>
 			<description>Today I&amp;rsquo;m setting up a website using Hugo with the Hermit theme and Github Pages. So it&amp;rsquo;s basically a test setup right now.
 I&amp;rsquo;m not sure yet what content will be delivered here, but I will figure it out down the road.</description>
 			<content type="html"><![CDATA[<p>Today I&rsquo;m setting up a website using <a href="https://gohugo.io">Hugo</a> with the <a href="https://github.com/Track3/hermit">Hermit theme</a> and <a href="https://github.com">Github Pages</a>. So it&rsquo;s basically a test setup right now.</p>
