@@ -1,3 +1,4 @@
 baseURL = 'https://wunderlich.dev/'
 languageCode = 'en-us'
-title = 'MAlexander Wunderlich'
+title = 'Alexander Wunderlich'
+theme = 'hugo-coder'
